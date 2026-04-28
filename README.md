@@ -4,7 +4,7 @@
 A deep learning image classifier that distinguishes between cats and dogs with **98.64% test accuracy** using a fine-tuned ResNet18 architecture.
 
 ## 📊 Model Performance
-- **Test Accuracy**: 98.64%
+- **Test Accuracy**: 98.67%
 - **Training Time**: 3 epochs
 - **Model**: ResNet18 (pretrained on ImageNet)
 - **Framework**: PyTorch
