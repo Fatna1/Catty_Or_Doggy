@@ -48,7 +48,33 @@ Images are transformed using:
 -NumPy: Numerical operations
 
 ## Examples:
+-🐱Cat Prediction:
+_image1:_
 <img width="270" height="148" alt="download" src="https://github.com/user-attachments/assets/c270ef78-3979-4713-bf2c-79ba3f369cb5" />
 Output:
 <img width="398" height="194" alt="Screenshot 2026-04-28 193723" src="https://github.com/user-attachments/assets/f45a5c64-9956-4c3d-9ab2-b16d428bccea" />
+_image2:_
+<img width="273" height="185" alt="5" src="https://github.com/user-attachments/assets/754ef890-1594-4f7b-a42d-b632c2506222" />
+Ouput:
+<img width="383" height="186" alt="image" src="https://github.com/user-attachments/assets/51930e48-3674-4d2d-a449-2cd0cfe59c34" />
+
+-🐶 Dog Prediction
+_image1_
+<img width="1344" height="1012" alt="4" src="https://github.com/user-attachments/assets/8034a5b9-00c1-473e-ab38-be354bf29761" />
+Output:
+<img width="371" height="181" alt="image" src="https://github.com/user-attachments/assets/985bd654-8935-4c51-98c7-64f6d35dbc86" />
+_image2_:
+<img width="541" height="350" alt="2" src="https://github.com/user-attachments/assets/1bc90121-6d05-47cb-9bfc-f5d3d3f5ab13" />
+Output:
+<img width="341" height="183" alt="image" src="https://github.com/user-attachments/assets/00bdc541-82f4-48c7-883f-aa6fda993c84" />
+_image3:_
+<img width="660" height="370" alt="3" src="https://github.com/user-attachments/assets/883fdb14-9135-40a6-8139-639256b3404d" />
+Output:
+<img width="453" height="183" alt="image" src="https://github.com/user-attachments/assets/535cebc9-49be-4ffe-b69b-662d028afa43" />
+
+
+
+
+
+
 
