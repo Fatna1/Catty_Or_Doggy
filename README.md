@@ -24,13 +24,13 @@ The model was trained on the [Dog and Cat Classification Dataset](https://www.ka
 
 ## 🚀 Quick Start
 
-### Prerequisites
-pip install torch torchvision pillow matplotlib numpy
+### Install dependencies
+pip install -r requirements.txt
 
 ### Run the Notebook
 1. Clone this repository
 2. Open cat-dog-classification.ipynb in Jupyter Notebook or any Notebook editor
-3. Run all cells to train the model or use the pre-trained weights
+4. Run all cells to train the model or use the pre-trained weights
 
 ### 🎯 Data Preprocessing
 Images are transformed using:
